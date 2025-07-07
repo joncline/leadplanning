@@ -4,7 +4,7 @@
 
 ## Overview
 
-This package provides customizations and automation for Salesforce Lead management, focused on planning and tracking next steps. It includes custom fields, a flow for automating task creation and field management, and a permission set for user access.
+This package provides customizations and automation for Salesforce Lead management, an activity management innovation that emphasizes internal motivation - checking off boxes, crossing off your to-do list, activites like that. Lead management is focused on planning and tracking next steps. It includes custom fields, a flow for automating task creation and field management, and a permission set for user access.
 
 ## Contents
 
