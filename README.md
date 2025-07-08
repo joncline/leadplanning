@@ -71,6 +71,15 @@ This package provides customizations and automation for Salesforce Lead manageme
 - When a user completes a step and enters notes, a Task is automatically created and the Lead's planning fields are reset for the next cycle.
 - The custom list view "My Leads - Next 7 Days" helps users focus on upcoming follow-ups.
 
+
+Next Steps:
+If you like what you see here and want further assistance building it - or solutions like it - we have three offers:
+✅ Done For You – Let us handle the heavy lifting while you focus on results.
+✅ Done With You – Partner with our experts to co-create the solution together.
+✅ Project Recovery – If things have gone off track, we specialize in turning projects around—fast.
+
+👉 Contact us today to get started and move your project forward with clarity, confidence, and speed.
+
 ## Version
 
 - **API Version:** 64.0
