@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>My_Leads_Next_7_Days</fullName>
+    <columns>FULL_NAME</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>LEAD.EMAIL</columns>
+    <columns>LEAD.STATUS</columns>
+    <columns>Activity_Type__c</columns>
+    <columns>Next_Step__c</columns>
+    <columns>Next_Step_Date__c</columns>
+    <columns>Completed_Step_Notes__c</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>Next_Step_Days_From_Now__c</field>
+        <operation>lessOrEqual</operation>
+        <value>7</value>
+    </filters>
+    <label>My Leads - Next 7 Days</label>
+</ListView>
