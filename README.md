@@ -3,6 +3,8 @@
 # Lead Planning Salesforce Metadata Package
 
 ## Overview
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q2UnOyQs84M?si=NTPRsUE64eJviRIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 This package provides customizations and automation for Salesforce Lead management, an activity management innovation that emphasizes internal motivation - checking off boxes, crossing off your to-do list, activites like that. Lead management is focused on planning and tracking next steps. It includes custom fields, a flow for automating task creation, a list view, and a permission set for user access.
 
