@@ -68,7 +68,7 @@ This package provides customizations and automation for Salesforce Lead manageme
 - **Purpose:**  
   Ensures that completed steps are logged as Tasks and that the Lead is ready for the next planning cycle.
 
-## Permissions: Lead_Planning Permission Set
+## Permissions: Lead Planning Permission Set
 
 - Grants read/edit access to custom Lead fields (except `Next_Step_Days_From_Now__c`, which is read-only).
 - Allows create, read, and edit access to the Lead object (no delete).
@@ -76,7 +76,7 @@ This package provides customizations and automation for Salesforce Lead manageme
 
 ## Deployment Instructions
 
-**Deploy from GitHub to Salesforce**
+- **Deploy from GitHub to Salesforce**
 Click this link here to bring this metadata into your org!
 
 https://githubsfdeploy.herokuapp.com/app/githubdeploy/joncline/leadplanning
