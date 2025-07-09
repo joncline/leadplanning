@@ -89,9 +89,9 @@ https://githubsfdeploy.herokuapp.com/app/githubdeploy/joncline/leadplanning
 ## Next Steps:
 We help you deliver better Salesforce outcomes—no matter where you're starting from:
 
-✅ Done For You – Let us take the reins and deliver a fully executed solution while you focus on results.
-✅ Done With You – Collaborate side by side with our experts to design and build together.
-✅ Develop Your Team – Invest in your people with professional development that sharpens their skills and elevates project success.
+-✅ Done For You – Let us take the reins and deliver a fully executed solution while you focus on results.
+-✅ Done With You – Collaborate side by side with our experts to design and build together.
+-✅ Develop Your Team – Invest in your people with professional development that sharpens their skills and elevates project success.
 
 👉 Contact us today to get the right support for your project and your team—so you can move forward with clarity, speed, and confidence. https://www.linkedin.com/in/joncline/
 
