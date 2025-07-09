@@ -72,13 +72,14 @@ This package provides customizations and automation for Salesforce Lead manageme
 - The custom list view "My Leads - Next 7 Days" helps users focus on upcoming follow-ups.
 
 
-Next Steps:
-If you like what you see here and want further assistance building it - or solutions like it - we have three offers:
-✅ Done For You – Let us handle the heavy lifting while you focus on results.
-✅ Done With You – Partner with our experts to co-create the solution together.
-✅ Project Recovery – If things have gone off track, we specialize in turning projects around—fast.
+## Next Steps:
+We help you deliver better Salesforce outcomes—no matter where you're starting from:
 
-👉 Contact us today to get started and move your project forward with clarity, confidence, and speed.
+✅ Done For You – Let us take the reins and deliver a fully executed solution while you focus on results.
+✅ Done With You – Collaborate side by side with our experts to design and build together.
+✅ Develop Your Team – Invest in your people with professional development that sharpens their skills and elevates project success.
+
+👉 Contact us today to get the right support for your project and your team—so you can move forward with clarity, speed, and confidence.
 
 ## Version
 
