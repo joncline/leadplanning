@@ -76,22 +76,14 @@ This package provides customizations and automation for Salesforce Lead manageme
 
 ## Deployment Instructions
 
-1. **Retrieve or deploy using Salesforce CLI:**
-   ```sh
-   sfdx force:mdapi:deploy -d . -u <target-org>
-   ```
-   Or use Workbench/Change Sets as appropriate.
- 
-
-- Users with the "Lead Planning" permission set can view and update the custom Lead fields.
-- When a user completes a step and enters notes, a Task is automatically created and the Lead's planning fields are reset for the next cycle.
-- The custom list view "My Leads - Next 7 Days" helps users focus on upcoming follow-ups.
-
-
 ## Deploy from GitHub to Salesforce
 Click this link here to bring this metadata into your org!
 
 https://githubsfdeploy.herokuapp.com/app/githubdeploy/joncline/leadplanning
+
+- Users with the "Lead Planning" permission set can view and update the custom Lead fields.
+- When a user completes a step and enters notes, a Task is automatically created and the Lead's planning fields are reset for the next cycle.
+- The custom list view "My Leads - Next 7 Days" helps users focus on upcoming follow-ups.
 
 
 ## Next Steps:
