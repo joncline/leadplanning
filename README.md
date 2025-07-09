@@ -88,6 +88,12 @@ This package provides customizations and automation for Salesforce Lead manageme
 - The custom list view "My Leads - Next 7 Days" helps users focus on upcoming follow-ups.
 
 
+## Deploy from GitHub to Salesforce
+Click this link here to bring this metadata into your org!
+
+https://githubsfdeploy.herokuapp.com/app/githubdeploy/joncline/leadplanning
+
+
 ## Next Steps:
 We help you deliver better Salesforce outcomes—no matter where you're starting from:
 
