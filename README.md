@@ -76,7 +76,7 @@ This package provides customizations and automation for Salesforce Lead manageme
 
 ## Deployment Instructions
 
-## Deploy from GitHub to Salesforce
+**Deploy from GitHub to Salesforce**
 Click this link here to bring this metadata into your org!
 
 https://githubsfdeploy.herokuapp.com/app/githubdeploy/joncline/leadplanning
