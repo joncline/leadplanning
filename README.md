@@ -9,7 +9,7 @@
 
 This package provides customizations and automation for Salesforce Lead management, an activity management innovation that emphasizes internal motivation - checking off boxes, crossing off your to-do list, activites like that. Lead management is focused on planning and tracking next steps. It includes custom fields, a flow for automating task creation, a list view, and a permission set for user access.
 
-##Overview Steps
+## Overview Steps
 
 1. Add the Activity Type, Next Step, and Next Step Date to the page layout or lightning record page
 2. Open or create a Lead 
