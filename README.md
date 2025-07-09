@@ -9,6 +9,22 @@
 
 This package provides customizations and automation for Salesforce Lead management, an activity management innovation that emphasizes internal motivation - checking off boxes, crossing off your to-do list, activites like that. Lead management is focused on planning and tracking next steps. It includes custom fields, a flow for automating task creation, a list view, and a permission set for user access.
 
+##Overview Steps
+
+1. Add the Activity Type, Next Step, and Next Step Date to the page layout or lightning record page
+2. Open or create a Lead 
+3. Fill out the Activity Type, Next Step, and Next Step Date. Set the Next Step Date to a day within this week
+4. Open the My Leads Next 7 Days List View
+5. Any Leads with a Next Step Date less than or equal to 7 days away will appear
+6. Fill out the Completed Step Notes field
+7. Click Save
+8. Expected Result: The Activity Type, Next Step, and Next Step Date fields are nulled out. 
+9. This enables you to write down the next step and prepares you to do this again next week!
+10. Set the Next Step Date to more than a week away from today
+11. When you save the edits and refresh the list view, the Lead is removed from your To-Do items
+12. Congrats! Take a deep breath of satisfaction! You've finished your Lead Activities!
+
+
 ## Contents
 
 - **objects/Lead.object**  
