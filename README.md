@@ -1,5 +1,3 @@
-# leadplanning
-
 # Lead Planning Salesforce Metadata Package
 
 ## Overview
