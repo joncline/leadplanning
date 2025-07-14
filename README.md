@@ -2,7 +2,8 @@
 
 ## Overview
 
-[Lead Management Process Overview.webm](https://github.com/user-attachments/assets/999cbebf-fcc1-44bf-90a6-233bea986659)
+[Lead Management and Human Connection.webm](https://github.com/user-attachments/assets/ca1f9607-7a0f-46a0-8963-64135efce950)
+
 
 
 This package provides customizations and automation for Salesforce Lead management, an activity management innovation that emphasizes internal motivation - checking off boxes, crossing off your to-do list, activites like that. Lead management is focused on planning and tracking next steps. It includes custom fields, a flow for automating task creation, a list view, and a permission set for user access.
