@@ -4,9 +4,9 @@
 
 [Lead Management and Human Connection.webm](https://github.com/user-attachments/assets/ca1f9607-7a0f-46a0-8963-64135efce950)
 
+This package provides customizations and automation for Salesforce Lead Planning, an activity logging innovation that emphasizes internal motivation from the BDR or sales rep when crossing an item off their to-do list. We find the common "carrot and stick" model neglects a significant motivator that also exists, that of immediate gratification or what we call "intrinsic ice cream." Lead Planning is focused on planning and tracking advances, or only the specific next step. It includes custom fields, a flow for automating task creation, a list view, and a permission set for user access.
 
-
-This package provides customizations and automation for Salesforce Lead management, an activity management innovation that emphasizes internal motivation - checking off boxes, crossing off your to-do list, activites like that. Lead management is focused on planning and tracking next steps. It includes custom fields, a flow for automating task creation, a list view, and a permission set for user access.
+This solution could be thought of as a simple alternative to a solution like Salesforce High Velocity Sales. This example of using a set of native Salesforce features assembled in a novel way to increase personal satisfaction will increase adoption and ROI. This solution draws inspiration from People First Method (http://www.peoplefirstmethod.com) and Getting Things Done by David Allen.
 
 ## Overview Steps
 
