@@ -17,6 +17,9 @@ This solution provides several strategies not present in typical solutions relat
 3. Drive compliant and customer first sales motions by validating and rewarding alignment to the qualification and ROI process.
 4. Create healthy competition and incentive programs based on factors that increase downstream success.
 5. Reduce the risk of reps gaming and corner-cutting your sales process when only signed deals are measured.
+6. Assign specific marketing list contacts directly to your teams' countdown lists.
+7. Increase adoption and reduce correction actions for growth teams via natural incentives.
+8. Improve team selling collaboration, morale, and culture by rewarding the right things.
 
 ## Overview Steps
 
