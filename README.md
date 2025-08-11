@@ -8,6 +8,16 @@ This package provides customizations and automation for Salesforce Lead Planning
 
 This solution could be thought of as a simple alternative to a solution like Salesforce High Velocity Sales. This example of using a set of native Salesforce features assembled in a novel way to increase personal satisfaction will increase adoption and ROI. This solution draws inspiration from People First Method (http://www.peoplefirstmethod.com) and Getting Things Done by David Allen.
 
+## Strategy
+
+This solution provides several strategies not present in typical solutions related to tracking engagements and activities.
+
+1. Leverage lead indicators based on a planned future in addition to prior actions based on the past.
+2. Enable recognition within your enterprise growth teams long before they turn into actual closed deals.
+3. Drive compliant and customer first sales motions by validating and rewarding alignment to the qualification and ROI process.
+4. Create healthy competition and incentive programs based on factors that increase downstream success.
+5. Reduce the risk of reps gaming and corner-cutting your sales process when only signed deals are measured.
+
 ## Overview Steps
 
 1. Add the Activity Type, Next Step, and Next Step Date to the page layout or lightning record page
